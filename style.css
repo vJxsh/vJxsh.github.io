@@ -1,0 +1,22 @@
+body{
+    font-family: 'verdana';
+    background-color: gray;
+}
+
+.intro{
+    font-size: 18px;
+    margin: auto;
+    text-align: center;
+}
+
+.projects
+{    
+    margin: auto;
+    text-align: center;
+    font-size: 39px;
+}
+
+#C-logo{
+    width: 1;
+    height: 1;
+}
